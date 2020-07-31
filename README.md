@@ -16,3 +16,7 @@ Homework: Describe the algorithm to:
 
 Homework correction. Introduction to Windows Command Line. Differences between CLI and GUI. Basisc commands for the file system management.
 Homework: Try to do the exercise at this link: https://www.studocu.com/en-ie/document/university-college-cork/operating-systems-1/tutorial-work/24-lab-1-windows-command-line-exercises/1710518/view
+
+# Lesson 3
+
+Variables
